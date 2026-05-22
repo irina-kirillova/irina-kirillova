@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Irina
 
-<!--
-**irina-kirillova/irina-kirillova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former materials engineer (10 years), transitioning into Python development and data science.
 
-Here are some ideas to get you started:
+**Currently learning:**
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Next to explore:**
+- Data analysis (Pandas, visualization)
+- Building a guest house assistant app (planning)
+
+📍 Da Nang, Vietnam
